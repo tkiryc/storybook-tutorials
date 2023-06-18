@@ -25,3 +25,6 @@ yarn start
 
 # Build a simple component
 ![スクリーンショット 2023-06-18 21 54 36](https://github.com/tkiryc/storybook-tutorials/assets/15275153/347e77e5-edfd-41c7-a6fa-83e3f814d80b)
+
+# Assemble a composite component
+![スクリーンショット 2023-06-18 22 25 10](https://github.com/tkiryc/storybook-tutorials/assets/15275153/6b074a27-8599-4064-9a02-cbcf7d8cd281)
